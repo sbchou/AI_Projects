@@ -4,10 +4,10 @@ AI Projects
 Here are a few simple Artificial Intelligence projects for COMS w 4701 at Columbia.
 Please, please *DO NOT* submit this code as your own-- you can do better, anyways.
 
-Contents
-========
+##Contents
 
-1. Isolation Game
+
+### Isolation Game
 
 This is a simple command-line implementation of Isolation, a rather boring boardgame.
 
@@ -15,7 +15,7 @@ This demonstrates basic Game Theory concepts using the Minimax Game-Playing algo
 
 Extra parameters for class purposes include: computational time limit, undo capacity
 
-2. Decision Tree Learning
+### Decision Tree Learning
 
 Implementation of the ID3 algorithm http://en.wikipedia.org/wiki/ID3\_algorithm
 
