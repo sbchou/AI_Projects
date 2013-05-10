@@ -18,20 +18,19 @@ Files:
     which will generate:
     * classifier.py
 
-TO RUN:
-   
-     *to run the tree-learning algorithm, type the command:
+TO RUN: 
+    * to run the tree-learning algorithm, type the command:
         python tree_learner.py restaurant_training.csv 
 
-    *This creates a classifying script using your generated tree in the file classifier.py.
+    * This creates a classifying script using your generated tree in the file classifier.py.
 
-    *To run the classifier on the given test data, run:
+    * To run the classifier on the given test data, run:
         python classifier.py restaurant_test.csv
 
-    *This will output the classifications to the screen.
+    * This will output the classifications to the screen.
 
 TEST RESULTS:
-    For restaurant_test.csv we get the following classifications:
+    * For restaurant\_test.csv we get the following classifications:
         Yes
         No
         Maybe
