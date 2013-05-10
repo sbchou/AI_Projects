@@ -11,29 +11,30 @@ Implements the ID3 tree learning algorithm to output a Decision Tree script to c
 http://en.wikipedia.org/wiki/ID3\_algorithm
 
 Files:
-    * README.md
-    * restaurant\_training.csv, the training data
-    * restaurant\_test.csv, the testing data
-    * tree\_learner.py
-    which will generate:
-    * classifier.py
+
+* README.md
+* restaurant\_training.csv, the training data
+* restaurant\_test.csv, the testing data
+* tree\_learner.py, which will generate:
+* classifier.py
 
 TO RUN: 
-    * to run the tree-learning algorithm, type the command:
-        python tree_learner.py restaurant_training.csv 
 
-    * This creates a classifying script using your generated tree in the file classifier.py.
+* to run the tree-learning algorithm, type the command:
+* python tree\_learner.py restaurant\_training.csv 
+* This creates a classifying script using your generated tree in the file classifier.py.
 
-    * To run the classifier on the given test data, run:
-        python classifier.py restaurant_test.csv
+* To run the classifier on the given test data, run:
+* python classifier.py restaurant\_test.csv
 
-    * This will output the classifications to the screen.
+* This will output the classifications to the screen.
 
 TEST RESULTS:
-    * For restaurant\_test.csv we get the following classifications:
-        Yes
-        No
-        Maybe
+
+* For restaurant\_test.csv we get the following classifications:
+* Yes
+* No
+* Maybe
 
 REFERENCES
 
